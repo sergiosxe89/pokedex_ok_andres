@@ -1,0 +1,28 @@
+/* Estilos para el modo oscuro y claro */
+.light-mode {
+    background-color: white;
+    color: black;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  
+  /* Estilos para el ícono dentro del botón */
+  .light-mode-icon {
+    color: black;
+  }
+  
+  .dark-mode-icon {
+    color: white;
+  }
+  
+  /* Estilos para el botón de cambio de modo */
+  .mode-toggle {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+  }
+  
